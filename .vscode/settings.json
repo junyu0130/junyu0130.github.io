@@ -10,6 +10,7 @@
     "scrollto",
     "swiper",
     "valuenow",
+    "Yapers",
     "Yu's"
   ],
   "css.styleSheets": ["assets/css/style.css", "assets/vendor/**/*.css"]

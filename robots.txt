@@ -1,6 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /assets/
+Disallow:
 Disallow: /inner-page.html
 Disallow: /portfolio-details.html
 Disallow: /RESL-website-redesign/
